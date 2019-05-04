@@ -6,3 +6,6 @@ A legal file name should be started with leetcode, followed with problem number,
 `leetcode_*problemNumber*_*classification*.[c | go]`<br><br>
 sample:<br>
 `leetcode_107_tree.go`<br>
+
+# resource.go
+Keep some implementations of basic data structure like stack/queue/...
